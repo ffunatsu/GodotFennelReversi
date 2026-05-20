@@ -37,6 +37,8 @@ https://funatsufumiya.github.io/GodotFennelReversi/GodotFennelReversi.html
 
 [![docs/playing_anim_with_option.gif](docs/playing_anim_with_option.gif)](docs/playing_anim_with_option.gif) (Animation GIF)
 
+---
+
 ## Git submodule
 
 Some resources are managed by git submodule. Be sure to update submodule also.
