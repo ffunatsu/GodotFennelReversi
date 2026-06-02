@@ -28,7 +28,7 @@ Please check [Releases](https://github.com/funatsufumiya/GodotFennelReversi/rele
 > * Loading time is very long. Be patient.
 
 You can play in browser (Desktop browser is assumed.)
-https://funatsufumiya.github.io/GodotFennelReversi/GodotFennelReversi.html
+https://ffunatsu.github.io/GodotFennelReversi/GodotFennelReversi.html
 
 ## Options
 
