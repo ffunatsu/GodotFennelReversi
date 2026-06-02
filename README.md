@@ -85,4 +85,4 @@ $ python scripts/watch.py
 
 ## License
 
-Please see [LICENSE](./LICENSE) and also [./big_files/LICENSE](https://github.com/funatsufumiya/GodotFennelReversi_BigFiles/blob/main/LICENSE) and [./big_files/README.md](https://github.com/funatsufumiya/GodotFennelReversi_BigFiles/blob/main/README.md)
+Please see [LICENSE](./LICENSE) and also [./big_files/LICENSE](https://github.com/ffunatsu/GodotFennelReversi_BigFiles/blob/main/LICENSE) and [./big_files/README.md](https://github.com/ffunatsu/GodotFennelReversi_BigFiles/blob/main/README.md)
