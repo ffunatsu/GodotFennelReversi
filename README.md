@@ -9,17 +9,17 @@
 
 Reversi game made with [Godot](https://godotengine.org/) 4.6 and [Fennel](https://fennel-lang.org/) language (Lisp on LuaJIT).
 
-Created for Spring Lisp Game Jam 2026 https://itch.io/jam/spring-lisp-game-jam-2026 , and created in 3 days, DAY1 [v1.0.0](https://github.com/funatsufumiya/GodotFennelReversi/releases/tag/v1.0.0), DAY2 [v1.2.0](https://github.com/funatsufumiya/GodotFennelReversi/releases/tag/v1.2.0), DAY3 [v1.2.2](https://github.com/funatsufumiya/GodotFennelReversi/releases/tag/v1.2.2).
+Created for Spring Lisp Game Jam 2026 https://itch.io/jam/spring-lisp-game-jam-2026 , and created in 3 days, DAY1 [v1.0.0](https://github.com/ffunatsu/GodotFennelReversi/releases/tag/v1.0.0), DAY2 [v1.2.0](https://github.com/ffunatsu/GodotFennelReversi/releases/tag/v1.2.0), DAY3 [v1.2.2](https://github.com/ffunatsu/GodotFennelReversi/releases/tag/v1.2.2).
 
 ## Prebuilt (downloadable, playable) executables
 
-Please check [Releases](https://github.com/funatsufumiya/GodotFennelReversi/releases) page for the latest version.
+Please check [Releases](https://github.com/ffunatsu/GodotFennelReversi/releases) page for the latest version.
 
 ### v1.2.2
 
-- Windows: [GodotFennelReversi_windows_x64.zip](https://github.com/funatsufumiya/GodotFennelReversi/releases/download/v1.2.2/GodotFennelReversi_windows_x64.zip)
-- Mac: [GodotFennelReversi_mac.zip](https://github.com/funatsufumiya/GodotFennelReversi/releases/download/v1.2.2/GodotFennelReversi_mac.zip)
-- Linux: [GodotFennelReversi_linux_x86_64.zip](https://github.com/funatsufumiya/GodotFennelReversi/releases/download/v1.2.2/GodotFennelReversi_linux_x86_64.zip)
+- Windows: [GodotFennelReversi_windows_x64.zip](https://github.com/ffunatsu/GodotFennelReversi/releases/download/v1.2.2/GodotFennelReversi_windows_x64.zip)
+- Mac: [GodotFennelReversi_mac.zip](https://github.com/ffunatsu/GodotFennelReversi/releases/download/v1.2.2/GodotFennelReversi_mac.zip)
+- Linux: [GodotFennelReversi_linux_x86_64.zip](https://github.com/ffunatsu/GodotFennelReversi/releases/download/v1.2.2/GodotFennelReversi_linux_x86_64.zip)
 
 ## Web version (playable in browser)
 
